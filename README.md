@@ -5,10 +5,10 @@
 * The site is deployed at Heroku at this link: https://safe-reef-73654.herokuapp.com/
 
 * Screenshots:
-[Screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(40).png)
-[screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(41).png)
-[screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(42).png)
-[screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(43).png)
+![Screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(40).png)
+![screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(41).png)
+![screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(42).png)
+![screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(43).png)
 
 <//////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
 
