@@ -2,9 +2,13 @@
 
 * This site allows you to create and edit workouts. It aslo icludes a visulized workout page so you can track your workouts.
 
-* The site is deployed at Heroku at this link:
+* The site is deployed at Heroku at this link: https://safe-reef-73654.herokuapp.com/
 
 * Screenshots:
+[Screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(40).png)
+[screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(41).png)
+[screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(42).png)
+[screenshot](https://github.com/Matthewlgrimes94/Workout-Tracker/blob/master/images/Screenshot%20(43).png)
 
 <//////////////////////////////////////////////////////////////////////////////////////////////////////////////////>
 
